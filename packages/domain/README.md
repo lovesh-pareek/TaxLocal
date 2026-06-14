@@ -1,0 +1,1 @@
+Domain layer - aggregates, entities, value objects and domain services.
