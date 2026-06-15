@@ -1,0 +1,6 @@
+export interface AuditEvent {
+  id: string;
+  eventType: string;
+  timestamp: Date;
+  payload: Record<string, unknown>;
+}
